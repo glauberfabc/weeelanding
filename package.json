@@ -1,9 +1,0 @@
-{
-  "name": "weeemob-landing",
-  "version": "1.0.0",
-  "description": "WeeeMob Landing Page",
-  "private": true,
-  "scripts": {
-    "start": "serve ."
-  }
-}
